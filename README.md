@@ -11,7 +11,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=5b9cf6&labelColor=111820)](https://linkedin.com/in/farhan-ahmed-39732223b/)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=111820)](https://github.com/codewithfarhanahmed)
+[![Portfolio](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=111820)](https://codewithfarhanahmed.github.io/OpenToWork)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=e8c547&labelColor=111820)](mailto:farhan.riphah21@gmail.com)
 [![SalwaDev](https://img.shields.io/badge/SalwaDev-e8c547?style=for-the-badge&logo=vercel&logoColor=080c10)](https://salwadev.com)
 
